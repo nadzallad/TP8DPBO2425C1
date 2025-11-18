@@ -25,3 +25,19 @@ Controller menyiapkan data untuk View. Controller memilih View yang sesuai, misa
 View menempelkan data ke template HTML. File template seperti templates/lecturers.html atau templates/departments.html berisi struktur halaman web. View akan menggantikan placeholder dengan data nyata dari Model, sehingga halaman siap ditampilkan di browser.
 Browser menampilkan hasil kepada pengguna. Pengguna melihat daftar dosen, form tambah/edit, atau notifikasi hasil operasi (misalnya “Data berhasil ditambahkan”). Jika pengguna melakukan aksi lain, alur ini akan diulang sesuai request baru.
 Konfigurasi database terpusat. Semua koneksi database menggunakan pengaturan di config.php, sehingga perubahan host, username, password, atau nama database cukup dilakukan di satu file tanpa harus mengubah Model atau Controller.
+
+
+//Dokumentasi 
+1. Dokumentasi berhasil tabel department
+https://github.com/user-attachments/assets/10e959ff-b170-4ab3-a329-bea3044a21d9
+
+3. Dokumentasi berhasil tabel Lecturer
+https://github.com/user-attachments/assets/3a647fa8-fec5-44bb-b1d4-2f530a483955
+
+
+
+
+
+
+
+
